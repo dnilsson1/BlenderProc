@@ -20,7 +20,7 @@ blenderproc run examples/advanced/random_room_constructor/main.py resources/ikea
 ``` 
 
 * `<PATH_TO_IKEA>`: path to the downloaded IKEA dataset, see the [scripts folder](../../scripts) for the download script. 
-* `resources/cctextures`: path to CCTextures folder, see the [scripts folder](../../scripts) for the download script.
+* `resources/cctextures`: path to CCTextures folder, see the [scripts folder](../../../blenderproc/scripts) for the download script.
 * `examples/advanced/random_room_constructor/output`: path of the output directory.
 
 Make sure that you have downloaded the `ikea` dataset and the `cctextures` before executing.
